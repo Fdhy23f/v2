@@ -1,0 +1,1 @@
+cameras = '[ { "name": "CAM 01", "imgsrc": "hub_cam01" }, { "name": "CAM 02", "imgsrc": "machine_room_cam01" }, { "name": "CAM 03", "imgsrc": "catwalk_cam01" } ]';
